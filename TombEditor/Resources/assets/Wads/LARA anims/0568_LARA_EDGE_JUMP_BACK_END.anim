@@ -284,5 +284,11 @@
             <Parameter2>-603</Parameter2>
             <Parameter3>17</Parameter3>
         </WadAnimCommand>
+        <WadAnimCommand>
+            <Type>EmptyHands</Type>
+            <Parameter1>0</Parameter1>
+            <Parameter2>0</Parameter2>
+            <Parameter3>0</Parameter3>
+        </WadAnimCommand>
     </AnimCommands>
 </WadAnimation>

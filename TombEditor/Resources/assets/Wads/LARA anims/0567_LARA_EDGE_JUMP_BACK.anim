@@ -2,7 +2,7 @@
 <WadAnimation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <FrameRate>1</FrameRate>
     <StateId>25</StateId>
-    <EndFrame>36</EndFrame>
+    <EndFrame>35</EndFrame>
     <NextAnimation>568</NextAnimation>
     <NextFrame>0</NextFrame>
     <Name>LARA_EDGE_JUMP_BACK</Name>
@@ -4547,132 +4547,6 @@
                 </WadKeyFrameRotation>
             </Angles>
         </WadKeyFrame>
-        <WadKeyFrame>
-            <BoundingBox>
-                <Minimum>
-                    <X>-187</X>
-                    <Y>1218</Y>
-                    <Z>-316</Z>
-                </Minimum>
-                <Maximum>
-                    <X>224</X>
-                    <Y>605</Y>
-                    <Z>259</Z>
-                </Maximum>
-            </BoundingBox>
-            <Offset>
-                <X>19</X>
-                <Y>955</Y>
-                <Z>0</Z>
-            </Offset>
-            <Angles>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>31.640621</X>
-                        <Y>0</Y>
-                        <Z>0.3515625</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>312.89053</X>
-                        <Y>351.21085</Y>
-                        <Z>9.492185</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>86.1328</X>
-                        <Y>0</Y>
-                        <Z>0.703125</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>21.093748</X>
-                        <Y>3.1640623</Y>
-                        <Z>3.8671868</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>308.3203</X>
-                        <Y>9.843748</Y>
-                        <Z>2.109375</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>84.72656</X>
-                        <Y>275.62497</Y>
-                        <Z>271.40625</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>16.52343</X>
-                        <Y>358.2422</Y>
-                        <Z>351.21085</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>22.85156</X>
-                        <Y>359.29678</Y>
-                        <Z>2.109375</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>341.36707</X>
-                        <Y>2.8125</Y>
-                        <Z>29.88281</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>353.67184</X>
-                        <Y>359.29678</Y>
-                        <Z>2.109375</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>0.3515625</X>
-                        <Y>0</Y>
-                        <Z>16.171875</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>344.8828</X>
-                        <Y>359.64844</Y>
-                        <Z>328.71094</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>348.75</X>
-                        <Y>0</Y>
-                        <Z>357.89062</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>0.703125</X>
-                        <Y>359.64844</Y>
-                        <Z>337.8515</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-                <WadKeyFrameRotation>
-                    <Rotations>
-                        <X>315.35153</X>
-                        <Y>358.9453</Y>
-                        <Z>3.5156245</Z>
-                    </Rotations>
-                </WadKeyFrameRotation>
-            </Angles>
-        </WadKeyFrame>
     </KeyFrames>
     <StateChanges />
     <AnimCommands>
@@ -4696,7 +4570,7 @@
         </WadAnimCommand>
         <WadAnimCommand>
             <Type>FlipEffect</Type>
-            <Parameter1>36</Parameter1>
+            <Parameter1>35</Parameter1>
             <Parameter2>0</Parameter2>
             <Parameter3>0</Parameter3>
         </WadAnimCommand>
